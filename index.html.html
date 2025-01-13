@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Burbank Accident Lawyers - Specialized legal services for bicycle, car, motorcycle, truck accidents, wrongful death, and more.">
+    <title>Burbank Accident Lawyers | Expert Legal Representation</title>
+    <style>
+        /* General Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1, h2, h3 {
+            font-weight: bold;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        /* Header Styles */
+        .header {
+            background-color: #003366;
+            color: #fff;
+            padding: 20px 0;
+        }
+
+        .header .logo {
+            font-size: 30px;
+            text-transform: uppercase;
+        }
+
+        .navbar {
+            float: right;
+        }
+
+        .navbar ul {
+            display: flex;
+            gap: 20px;
+        }
+
+        .navbar li {
+            list-style: none;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        /* Hero Section */
+        .hero {
+            background-color: #e8f4f8;
+            padding: 50px 0;
+            text-align: center;
+        }
+
+        .hero h2 {
+            font-size: 36px;
+            color: #003366;
+        }
+
+        /* Service Section */
+        .service-section {
+            padding: 40px 0;
+            background-color: #fff;
+        }
+
+        .service-section h3 {
+            font-size: 28px;
+            color: #003366;
+            margin-bottom: 20px;
+        }
+
+        .service-section p {
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        .service-section ul {
+            font-size: 16px;
+            padding-left: 20px;
+        }
+
+        .service-section ul li {
+            margin: 8px 0;
+        }
+
+        /* Call to Action Section */
+        .cta-section {
+            background-color: #003366;
+            color: white;
+            padding: 40px 0;
+            text-align: center;
+        }
+
+        .cta-button {
+            background-color: #ff6600;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .cta-button:hover {
+            background-color: #ff4500;
+        }
+
+        /* Footer */
+        .footer {
+            background-color: #003366;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">Burbank Accident Lawyers</h1>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#bicycle">Bicycle Accidents</a></li>
+                    <li><a href="#car">Car Accidents</a></li>
+                    <li><a href="#motorcycle">Motorcycle Accidents</a></li>
+                    <li><a href="#truck">Truck Accidents</a></li>
+                    <li><a href="#dog-bite">Dog Bites</a></li>
+                    <li><a href="#wrongful-death">Wrongful Death</a></li>
+                    <li><a href="#catastrophic">Catastrophic Accidents</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h2>Experienced <a href="https://facchettilaw.com/">Burbank Accident Lawyers</a>Ready to Fight for You</h2>
+            <p>If you've been injured in any type of accident, our expert legal team is here to help you secure the compensation you deserve. From car and motorcycle accidents to wrongful death claims, we have the experience and commitment to protect your rights.</p>
+        </div>
+    </section>
+
+    <section id="bicycle" class="service-section">
+        <div class="container">
+            <h3>Burbank Bicycle Accident Lawyer</h3>
+            <p>Bicycle accidents can result in severe injuries. Our lawyers specialize in helping cyclists who have been involved in accidents, whether due to driver negligence or unsafe road conditions. We work to ensure you receive the compensation you deserve for medical bills, lost wages, and pain and suffering.</p>
+        </div>
+    </section>
+
+    <section id="car" class="service-section">
+        <div class="container">
+            <h3>Burbank Car Accident Lawyer</h3>
+            <p>If you've been involved in a car accident, our experienced attorneys are here to help. We understand the complexities of car accident cases and work tirelessly to ensure you receive fair compensation for injuries, property damage, and lost income.</p>
+        </div>
+    </section>
+
+    <section id="motorcycle" class="service-section">
+        <div class="container">
+            <h3>Burbank Motorcycle Accident Lawyer</h3>
+            <p>Motorcycle accidents often result in severe injuries. Our dedicated lawyers have the expertise to handle these types of cases, ensuring you get justice and maximum compensation for medical bills, lost wages, and emotional distress.</p>
+        </div>
+    </section>
+
+    <section id="truck" class="service-section">
+        <div class="container">
+            <h3>Burbank Truck Accident Lawyer</h3>
+            <p>Truck accidents can result in catastrophic injuries. Our lawyers have the expertise to investigate and litigate these complex cases, ensuring you receive compensation for medical expenses, lost wages, and pain and suffering caused by the accident.</p>
+        </div>
+    </section>
+
+    <section id="dog-bite" class="service-section">
+        <div class="container">
+            <h3>Burbank Dog Bite Lawyer</h3>
+            <p>If you’ve been bitten by a dog, you may be entitled to compensation for medical bills, lost wages, and emotional trauma. We help you navigate the legal process and hold dog owners accountable for their pet’s actions.</p>
+        </div>
+    </section>
+
+    <section id="wrongful-death" class="service-section">
+        <div class="container">
+            <h3>Burbank Wrongful Death Lawyer</h3>
+            <p>Losing a loved one in an accident is devastating. If the death was caused by negligence, we will help you pursue a wrongful death lawsuit to recover compensation for funeral costs, loss of companionship, and other damages.</p>
+        </div>
+    </section>
+
+    <section id="catastrophic" class="service-section">
+        <div class="container">
+            <h3>Burbank Catastrophic Accident Lawyer</h3>
+            <p>Catastrophic accidents can change your life. Our experienced lawyers work to ensure you and your family are compensated for long-term medical care, rehabilitation, lost wages, and pain and suffering resulting from catastrophic injuries.</p>
+        </div>
+    </section>
+
+    <section id="contact" class="cta-section">
+        <div class="container">
+            <h3>Contact Burbank Accident Lawyers Today</h3>
+            <p>If you’ve been injured in any type of accident, don’t wait to get the legal help you need. Contact us today to schedule a free consultation with our expert lawyers.</p>
+            <button class="cta-button">Get Your Free Consultation</button>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Burbank Accident Lawyers | All Rights Reserved</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
